@@ -1,4 +1,5 @@
 🎥 YouTube Transcript Q&A
+
 A Streamlit-powered web app that lets you interactively query and summarize YouTube videos using their transcripts. It leverages LangChain, Google Gemini (via LangChain's ChatGoogleGenerativeAI), FAISS for vector search, and YouTube's Transcript API.
 
 
