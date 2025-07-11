@@ -26,13 +26,16 @@ Transcript API	youtube-transcript-api
 Env Management	python-dotenv
 
 🛠️ Setup Instructions
+
 1. Clone the Repository
 bash
 Copy
 Edit
 git clone https://github.com/your-username/youtube-transcript-qa.git
+
 cd youtube-transcript-qa
-2. Install Dependencies
+
+3. Install Dependencies
 bash
 Copy
 Edit
